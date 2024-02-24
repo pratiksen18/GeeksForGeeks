@@ -61,8 +61,6 @@ Java users need to return result in Pair class
 For Example -> return new Pair(minimum,maximum)
 */
 
-// Time Complexity: O(N)
-// Auxiliary Space: O(1)
 class Solution 
 {
     static Pair getMinMax(long a[], long n)  
